@@ -1,1 +1,3 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+# Simon A. Lee's Website
+
+Simon A. Lee is a UCLA Ph.D. student in the department of Computational Medicine. He is interested in medical AI and projects related to these topics
