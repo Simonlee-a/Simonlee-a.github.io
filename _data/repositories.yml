@@ -1,0 +1,12 @@
+# github_users:
+#   - Simonlee711
+
+repo_description_lines_max: 2
+
+github_repos:
+  - ulzee/dkbehrt
+  - Simonlee711/antibiotics-fm-benchmark
+  - Simonlee711/FEET
+  - mmcdermott/MEDS-DEV
+  - Simonlee711/MEME
+  - Simonlee711/ABP_Imputation-With-EHR
